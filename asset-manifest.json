@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PORTFO/static/css/main.fb92b59f.css",
+    "main.js": "/PORTFO/static/js/main.71f54198.js",
+    "static/media/proj1_supersearch.png": "/PORTFO/static/media/proj1_supersearch.04a942b0a690213568d9.png",
+    "static/media/proj2_drinkreviews.png": "/PORTFO/static/media/proj2_drinkreviews.819dacf97af09b2f6c28.png",
+    "static/media/Donghoh_Han–CV.pdf": "/PORTFO/static/media/Donghoh_Han–CV.145a41f965ce09fb6cb7.pdf",
+    "index.html": "/PORTFO/index.html",
+    "main.fb92b59f.css.map": "/PORTFO/static/css/main.fb92b59f.css.map",
+    "main.71f54198.js.map": "/PORTFO/static/js/main.71f54198.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb92b59f.css",
+    "static/js/main.71f54198.js"
+  ]
+}
